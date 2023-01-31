@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt=" " src=" ">
+<img width="1266" alt=" " src="https://github.com/Niraj-Kumar-Gupta/personal-portfolio/blob/main/screenshoot/portfolio.png">
 
 Built using:
 
