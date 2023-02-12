@@ -77,9 +77,9 @@ export const Skills2 = () => {
 
                                       <li className="timeline-item">
 
-                                        <h4 className="h5 timeline-item-title">University school of the arts</h4>
+                                        <h4 className="h5 timeline-item-title">National Institute Of Technology ,Allahabad</h4>
 
-                                        <span>2007 — 2008</span>
+                                        <span>2020 — currently</span>
 
                                         <p className="timeline-text">
                                           Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
@@ -91,9 +91,9 @@ export const Skills2 = () => {
 
                                       <li className="timeline-item">
 
-                                        <h4 className="h5 timeline-item-title">New york academy of art</h4>
+                                        <h4 className="h5 timeline-item-title">Shikshadeep +2 science , Biratnagar Nepal</h4>
 
-                                        <span>2006 — 2007</span>
+                                        <span>2017 — 2019</span>
 
                                         <p className="timeline-text">
                                           Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est
@@ -104,9 +104,9 @@ export const Skills2 = () => {
 
                                       <li className="timeline-item">
 
-                                        <h4 className="h5 timeline-item-title">High school of art and design</h4>
+                                        <h4 className="h5 timeline-item-title">Shree Budhilal Bidya Munar Secondary School</h4>
 
-                                        <span>2002 — 2004</span>
+                                        <span>2005 — 2016</span>
 
                                         <p className="timeline-text">
                                           Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur
