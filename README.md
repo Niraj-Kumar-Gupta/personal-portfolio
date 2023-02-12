@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt=" " src=" ">
+<img width="1266" alt=" " src="https://github.com/Niraj-Kumar-Gupta/personal-portfolio/blob/main/screenshoot/portfolio.png">
 
 Built using:
 
@@ -39,8 +39,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contributors:
 
-1.[ Niraj Kumar Gupta](https://github.com/Niraj-Gupta26/)\
-2.[ Roshni Mandal](https://github.com/roshnimandal55/)
+1.[ Niraj Kumar Gupta](https://github.com/Niraj-Kumar-Gupta/)\
+2.[ Roshni Mandal](https://github.com/Roshni-Mandal/)
 
 
 ## Project link:
