@@ -10,7 +10,7 @@ import { Skills2 } from "./components/academics";
 import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
-import Resume from "./components/Resume/ResumeNew";
+
 
 import {
   BrowserRouter as Router,
