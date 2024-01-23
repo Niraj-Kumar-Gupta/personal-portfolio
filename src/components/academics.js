@@ -36,7 +36,8 @@ export const Skills2 = () => {
                 <div className="col-12">
                     <div className="skill2-bx wow zoomIn">
                      <h1>Academic Details</h1>
-                     <h1>.</h1>
+                     <br></br>
+                     <br></br>
                         <Row className="align-items-center" >
 
                             <Col size={12} md={6}>

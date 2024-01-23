@@ -22,7 +22,7 @@ export const NavBar = () => {
 // Function will execute on click of button
     const onButtonClick = () => {
         
-        if(window.confirm("ARE U SURE WANT TO DOWNLOAD ?")){
+        if(true){
         // using Java Script method to get PDF file
         fetch(pdf).then(response => {
             response.blob().then(blob => {
